@@ -1,4 +1,3 @@
-# Projeto Integrador - Co-off
 Co-off
 Um modelo para o desenvolvimento do Projeto Integrador do Curso de Técnico em Desenvolvimento de Sistemas para a Internet Integrado ao Ensino Médio do IFC - Campus Araquari.
 
@@ -9,9 +8,9 @@ A ideia do nosso site é trabalhar com um sistema de anúncio de veículos prát
 Professor: [Marco André Mendes](github.com/marcoandre)
 
 Equipe:
-<a href="github.com/danielhinsching">-Daniel</a>
+- [Daniel](github.com/danielhinsching)
 - [Luís](github.com/luisc5martins)
-- [Pedro](github.com/luisc5martins)
+- [Pedro](https://github.com/Pedro-Black)
 
 Links do projeto:
 -   [Documentação (esse documento)](github.com/danielhinsching/pi-modelo)
