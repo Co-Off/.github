@@ -6,6 +6,6 @@ A ideia do nosso site é trabalhar com um sistema de anúncio de veículos prát
 
 
 # Equipe
-- [Daniel](github.com/danielhinsching)
-- [Luís](github.com/luisc5martins)
-- [Pedro](github.com/luisc5martins)
+- [Daniel](https://github.com/danielhinsching)
+- [Luís](https://github.com/luisc5martins)
+- [Pedro](https://github.com/Pedro-Black)
