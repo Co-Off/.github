@@ -10,4 +10,4 @@ Nosso projeto idealiza uma cafeteria, com um sistema de compra por aplicativo, a
 - [Pedro](https://github.com/Pedro-Black)
 
 # Modelagem ideia
-- [Figma](https://www.figma.com/design/4KGm9x548bnGQ26hYb6Y7O/Co-Off?node-id=0-1&t=bMPAWxi9MlNdqUfH-1).
+- [Figma](https://www.figma.com/design/4KGm9x548bnGQ26hYb6Y7O/Co-Off?node-id=0-1&t=bMPAWxi9MlNdqUfH-1)
